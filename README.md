@@ -120,7 +120,7 @@ python train_6d.py --dataset /path/to/your/dataset --out /path/to/your/output
 
 
 ## Acknowledgement
-Our code is inspired by [MAE](https://github.com/facebookresearch/mae) and [MoCap-Solver](https://github.com/CalciferZh/MoCap-Solver).  
+Our code is inspired by [MAE](https://github.com/facebookresearch/mae) and [MoCap-Solver](https://github.com/NetEase-GameAI/MoCap-Solver).  
 We sincerely thank the authors for their excellent work.
 
 
