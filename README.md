@@ -1,6 +1,6 @@
 # OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion
 
-[![Paper](https://img.shields.io/badge/Paper-MM%2725-blue)](https://arxiv.org/abs/2508.12610)  [![Project](https://img.shields.io/badge/Project-OpenMoCap-green)](https://qianchen214.github.io/openmocap.github.io/)
+[![Paper](https://img.shields.io/badge/Paper-MM%2725-blue)](https://arxiv.org/abs/2508.12610)  [![Project](https://img.shields.io/badge/Project-OpenMoCap-green)](https://qianchen214.github.io/openmocap.github.io/) [![Data](https://img.shields.io/badge/Data-OpenMoCap-yellow)](https://huggingface.co/datasets/chen-qian/CMU-Occlu/tree/main)
 
 Official implementation of **OpenMoCap** from *ACM Multimedia 2025*:  
 **OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion**  
@@ -131,10 +131,11 @@ We sincerely thank the authors for their excellent work.
 If you find our work inspiring or use our code or dataset in your research, please consider giving a star ⭐ and a citation.
 
 ```bibtex
-@article{qian2025openmocap,
-title={OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion},
-author={Qian, Chen and Li, Danyang and Yu, Xinran and Yang, Zheng and Ma, Qiang},
-journal={arXiv preprint arXiv:2508.12610},
-year={2025}
+@inproceedings{qian2025openmocap,
+  title={OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion},
+  author={Qian, Chen and Li, Danyang and Yu, Xinran and Yang, Zheng and Ma, Qiang},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={7529--7537},
+  year={2025}
 }
 ```
