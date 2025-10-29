@@ -1,6 +1,6 @@
 # OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion
 
-[![Paper](https://img.shields.io/badge/Paper-MM%2725-blue)](https://arxiv.org/abs/2508.12610)  [![Project](https://img.shields.io/badge/Project-OpenMoCap-green)](https://qianchen214.github.io/openmocap.github.io/) [![Data](https://img.shields.io/badge/Data-OpenMoCap-red)](https://huggingface.co/datasets/chen-qian/CMU-Occlu/tree/main) [![HF](https://img.shields.io/badge/Data-OpenMoCap-yellow)](https://huggingface.co/papers/2508.12610)
+[![Paper](https://img.shields.io/badge/Paper-MM%2725-blue)](https://arxiv.org/abs/2508.12610)  [![Project](https://img.shields.io/badge/Project-OpenMoCap-green)](https://qianchen214.github.io/openmocap.github.io/) [![Data](https://img.shields.io/badge/Data-Occlu-red)](https://huggingface.co/datasets/chen-qian/CMU-Occlu/tree/main) [![HF](https://img.shields.io/badge/HF-OpenMoCap-yellow)](https://huggingface.co/papers/2508.12610)
 
 Official implementation of **OpenMoCap** from *ACM Multimedia 2025*:  
 **OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion**  
