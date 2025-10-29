@@ -1,6 +1,6 @@
 # OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion
 
-[![Paper](https://img.shields.io/badge/Paper-MM%2725-blue)](https://arxiv.org/abs/2508.12610)  [![Project](https://img.shields.io/badge/Project-OpenMoCap-green)](https://qianchen214.github.io/openmocap.github.io/) [![Data](https://img.shields.io/badge/Data-OpenMoCap-yellow)](https://huggingface.co/datasets/chen-qian/CMU-Occlu/tree/main)
+[![Paper](https://img.shields.io/badge/Paper-MM%2725-blue)](https://arxiv.org/abs/2508.12610)  [![Project](https://img.shields.io/badge/Project-OpenMoCap-green)](https://qianchen214.github.io/openmocap.github.io/) [![Data](https://img.shields.io/badge/Data-OpenMoCap-red)](https://huggingface.co/datasets/chen-qian/CMU-Occlu/tree/main) [![HF](https://img.shields.io/badge/Data-OpenMoCap-yellow)](https://huggingface.co/papers/2508.12610)
 
 Official implementation of **OpenMoCap** from *ACM Multimedia 2025*:  
 **OpenMoCap: Rethinking Optical Motion Capture under Real-world Occlusion**  
@@ -20,7 +20,7 @@ We propose:
 
 
 ## 💡 Notes
-- The pretrained weights have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1lt9LWSYykaD_lA_ubnddJs10HA0rHyjv?usp=sharing). Please download them and place the files under `./marker_joint_6d/` and `./openmocap_position/`.
+- The pretrained weights have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1lt9LWSYykaD_lA_ubnddJs10HA0rHyjv?usp=sharing) or [Hugging Face](https://huggingface.co/chen-qian/OpenMoCap/tree/main). Please download them and place the files under `./marker_joint_6d/` and `./openmocap_position/`.
 - These weights are trained on the **CMU-Occlu** dataset.  
 - For **SFU** or other datasets, fine-tuning is recommended.  
 
